@@ -1,0 +1,3204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SVCompilerDirectivesDefines">
+    <option name="define">
+      <map>
+        <entry key="ARCH_MATCH_TYPE_A">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2495" />
+                    <option name="replacementList" value="100" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3016" />
+                    <option name="replacementList" value="100" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2538" />
+                    <option name="replacementList" value="100" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="ATC2_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1460" />
+                    <option name="replacementList" value="10" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1459" />
+                    <option name="replacementList" value="10" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1459" />
+                    <option name="replacementList" value="10" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="ATC3_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1496" />
+                    <option name="replacementList" value="11" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1495" />
+                    <option name="replacementList" value="11" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1495" />
+                    <option name="replacementList" value="11" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="CFG_CLK_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3996" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="CFG_DIN_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4034" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="CFG_DOUT_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4110" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="CONTROL_CMD_OFFSET">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3957" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="CONTROL_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1738" />
+                    <option name="replacementList" value="36" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1737" />
+                    <option name="replacementList" value="36" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1737" />
+                    <option name="replacementList" value="36" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_AARTIXUPLUS">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2548" />
+                    <option name="replacementList" value="&quot;aartixuplus&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_ARTIX7">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2210" />
+                    <option name="replacementList" value="&quot;artix7&quot;" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2253" />
+                    <option name="replacementList" value="&quot;artix7&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2253" />
+                    <option name="replacementList" value="&quot;artix7&quot;" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_ARTIX7_LENGTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2253" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2296" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2296" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_ARTIXUPLUS">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2501" />
+                    <option name="replacementList" value="&quot;artixuplus&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_KINTEX7">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2130" />
+                    <option name="replacementList" value="&quot;kintex7&quot;" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2173" />
+                    <option name="replacementList" value="&quot;kintex7&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2173" />
+                    <option name="replacementList" value="&quot;kintex7&quot;" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_KINTEX7_LENGTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2174" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2217" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2217" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_KINTEXU">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2409" />
+                    <option name="replacementList" value="&quot;kintexu&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_KINTEXUPLUS">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2453" />
+                    <option name="replacementList" value="&quot;kintexuplus&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_NAME_LENGTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1952" />
+                    <option name="replacementList" value="15 //leave room for radhard/automotive and low power part names" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1951" />
+                    <option name="replacementList" value="15 //leave room for radhard/automotive and low power part names" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1951" />
+                    <option name="replacementList" value="15 //leave room for radhard/automotive and low power part names" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_VIRTEX6">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2049" />
+                    <option name="replacementList" value="&quot;virtex6&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2049" />
+                    <option name="replacementList" value="&quot;virtex6&quot;" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_VIRTEX7">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2050" />
+                    <option name="replacementList" value="&quot;virtex7&quot;" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2093" />
+                    <option name="replacementList" value="&quot;virtex7&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2093" />
+                    <option name="replacementList" value="&quot;virtex7&quot;" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                  <option value="ila_v6_2_15_ila_param.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_VIRTEX7_LENGTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2094" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2137" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2137" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_VIRTEXU">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2596" />
+                    <option name="replacementList" value="&quot;virtexu&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_VIRTEXUPLUS">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2640" />
+                    <option name="replacementList" value="&quot;virtexuplus&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_VIRTEXUPLUS58G">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2739" />
+                    <option name="replacementList" value="&quot;virtexuplus58g&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_VIRTEXUPLUSHBM">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2688" />
+                    <option name="replacementList" value="&quot;virtexuplusHBM&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_ZYNQ">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2289" />
+                    <option name="replacementList" value="&quot;zynq&quot;" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2332" />
+                    <option name="replacementList" value="&quot;zynq&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2332" />
+                    <option name="replacementList" value="&quot;zynq&quot;" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_ZYNQUPLUS">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2790" />
+                    <option name="replacementList" value="&quot;zynquplus&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_ZYNQUPLUSRFSOC">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2836" />
+                    <option name="replacementList" value="&quot;zynquplusRFSOC&quot;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="FAMILY_ZYNQ_LENGTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2330" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2373" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2373" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ltlib_v1_0_2_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_CHIP_ID_CHIPSCOPE_SBT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2699" />
+                    <option name="replacementList" value="32'b0000_1010_0000_0000_0011_0000_1001_0011" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3220" />
+                    <option name="replacementList" value="32'b0000_1010_0000_0000_0011_0000_1001_0011" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2742" />
+                    <option name="replacementList" value="32'b0000_1010_0000_0000_0011_0000_1001_0011" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_CHIP_ID_XC7V285T">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3174" />
+                    <option name="replacementList" value="32'b0000_0011_1010_0110_0100_0000_1001_0011" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3695" />
+                    <option name="replacementList" value="32'b0000_0011_1010_0110_0100_0000_1001_0011" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3217" />
+                    <option name="replacementList" value="32'b0000_0011_1010_0110_0100_0000_1001_0011" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_ICN_CMD4_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1907" />
+                    <option name="replacementList" value="3 + `GC_XSDB_MSI_SL_SEL_WIDTH+ `GC_XSDB_MSI_BRST_WD_LEN_WIDTH" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1907" />
+                    <option name="replacementList" value="3 + `GC_XSDB_MSI_SL_SEL_WIDTH+ `GC_XSDB_MSI_BRST_WD_LEN_WIDTH" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_ICN_CMD5_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2009" />
+                    <option name="replacementList" value="1 + `GC_XSDB_MSI_ADDR_WIDTH" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2009" />
+                    <option name="replacementList" value="1 + `GC_XSDB_MSI_ADDR_WIDTH" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_ICN_CMD6_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2077" />
+                    <option name="replacementList" value="`GC_XSDB_MSI_DATA_WIDTH" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2077" />
+                    <option name="replacementList" value="`GC_XSDB_MSI_DATA_WIDTH" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_ICN_CTL_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1864" />
+                    <option name="replacementList" value="36" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1864" />
+                    <option name="replacementList" value="36" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_ICON_NULL_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1640" />
+                    <option name="replacementList" value="15" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1639" />
+                    <option name="replacementList" value="15" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1639" />
+                    <option name="replacementList" value="15" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_IPORT_DADDR_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1649" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1649" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_IPORT_DCLK_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1523" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1523" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_IPORT_DEN_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1565" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1565" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_IPORT_DI_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1691" />
+                    <option name="replacementList" value="`GC_IPORT_DADDR_IDX+`GC_XSDB_S_ADDR_WIDTH" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1691" />
+                    <option name="replacementList" value="`GC_IPORT_DADDR_IDX+`GC_XSDB_S_ADDR_WIDTH" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_IPORT_DWE_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1607" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1607" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_IPORT_RST_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1481" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1481" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_MAX_NUM_MU">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7189" />
+                    <option name="replacementList" value="1024" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_MU_CNT_VEC_ARRAY_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7497" />
+                    <option name="replacementList" value="`GC_MU_CNT_VEC_W*`GC_MAX_NUM_MU" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_MU_CNT_VEC_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7458" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_OPORT_DO_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1815" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1815" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_OPORT_RDY_IDX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1773" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1773" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_RESERVED_CORE_TYPE2">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1532" />
+                    <option name="replacementList" value="12" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1531" />
+                    <option name="replacementList" value="12" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1531" />
+                    <option name="replacementList" value="12" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_SBT_IR_ID_INSTR">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2599" />
+                    <option name="replacementList" value="10'b1111001001" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3120" />
+                    <option name="replacementList" value="10'b1111001001" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2642" />
+                    <option name="replacementList" value="10'b1111001001" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_SBT_IR_USER1_INSTR">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2648" />
+                    <option name="replacementList" value="10'b11_1100_0010" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3169" />
+                    <option name="replacementList" value="10'b11_1100_0010" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2691" />
+                    <option name="replacementList" value="10'b11_1100_0010" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_SBT_IR_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2561" />
+                    <option name="replacementList" value="10;" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3082" />
+                    <option name="replacementList" value="10;" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2604" />
+                    <option name="replacementList" value="10;" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_STATIC_STAT_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7716" />
+                    <option name="replacementList" value="672" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_TRIG_TYPEID_VEC_ARRAY_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7384" />
+                    <option name="replacementList" value="`GC_TRIG_TYPEID_VEC_W*`GC_MAX_NUM_MU" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_TRIG_TYPEID_VEC_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7344" />
+                    <option name="replacementList" value="16" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_TRIG_TYPE_ID_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7647" />
+                    <option name="replacementList" value="15" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_TRIG_WIDTH_VEC_ARRAY_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7271" />
+                    <option name="replacementList" value="`GC_TRIG_WIDTH_VEC_W*`GC_MAX_NUM_MU" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_TRIG_WIDTH_VEC_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7231" />
+                    <option name="replacementList" value="16" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_lib_fn.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_V7_IR_ID_INSTR">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2937" />
+                    <option name="replacementList" value="6'b00_1001" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3458" />
+                    <option name="replacementList" value="6'b00_1001" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2980" />
+                    <option name="replacementList" value="6'b00_1001" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_V7_IR_USER1_INSTR">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2982" />
+                    <option name="replacementList" value="6'b00_0010" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3503" />
+                    <option name="replacementList" value="6'b00_0010" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3025" />
+                    <option name="replacementList" value="6'b00_0010" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_V7_IR_USER2_INSTR">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3027" />
+                    <option name="replacementList" value="6'b00_0011" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3548" />
+                    <option name="replacementList" value="6'b00_0011" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3070" />
+                    <option name="replacementList" value="6'b00_0011" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_V7_IR_USER3_INSTR">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3072" />
+                    <option name="replacementList" value="6'b10_0010" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3593" />
+                    <option name="replacementList" value="6'b10_0010" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3115" />
+                    <option name="replacementList" value="6'b10_0010" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_V7_IR_USER4_INSTR">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3117" />
+                    <option name="replacementList" value="6'b10_0011" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3638" />
+                    <option name="replacementList" value="6'b10_0011" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3160" />
+                    <option name="replacementList" value="6'b10_0011" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_V7_IR_W">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2901" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="3422" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2944" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XILINX_MFG_ID">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="996" />
+                    <option name="replacementList" value="`XILINX_MFG_ID" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="995" />
+                    <option name="replacementList" value="`XILINX_MFG_ID" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="995" />
+                    <option name="replacementList" value="`XILINX_MFG_ID" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_MASTER_V1_0">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1604" />
+                    <option name="replacementList" value="14" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1603" />
+                    <option name="replacementList" value="14" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1603" />
+                    <option name="replacementList" value="14" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_MSI_ADDR_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="899" />
+                    <option name="replacementList" value="17  /* Address Width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="899" />
+                    <option name="replacementList" value="17  /* Address Width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_MSI_BRST_CNT_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1067" />
+                    <option name="replacementList" value="16  /* Burst Count Width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1067" />
+                    <option name="replacementList" value="16  /* Burst Count Width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_MSI_BRST_WD_LEN_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="963" />
+                    <option name="replacementList" value="17" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="963" />
+                    <option name="replacementList" value="17" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_MSI_DATA_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1006" />
+                    <option name="replacementList" value="16  /* Data Width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1006" />
+                    <option name="replacementList" value="16  /* Data Width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_param.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_MSI_SL_SEL_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="830" />
+                    <option name="replacementList" value="8   /* Slave Select Width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="830" />
+                    <option name="replacementList" value="8   /* Slave Select Width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_S_ADDR_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1304" />
+                    <option name="replacementList" value="`GC_XSDB_MSI_ADDR_WIDTH  /* Slave Addr width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1304" />
+                    <option name="replacementList" value="`GC_XSDB_MSI_ADDR_WIDTH  /* Slave Addr width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_S_DATA_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1392" />
+                    <option name="replacementList" value="`GC_XSDB_MSI_DATA_WIDTH  /* Slave Data width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1392" />
+                    <option name="replacementList" value="`GC_XSDB_MSI_DATA_WIDTH  /* Slave Data width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_param.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_S_IPORT_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1135" />
+                    <option name="replacementList" value="37  /* Slave Port input interface width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1135" />
+                    <option name="replacementList" value="37  /* Slave Port input interface width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GC_XSDB_S_OPORT_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1219" />
+                    <option name="replacementList" value="17  /* Slave Port output interface width */" />
+                    <option name="source" value="xsdbm_v3_0_2_i2x.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1219" />
+                    <option name="replacementList" value="17  /* Slave Port output interface width */" />
+                    <option name="source" value="xsdbs_v1_0_4_i2x.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="GLBL">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="141" />
+                    <option name="source" value="glbl.v" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="2141305" />
+                    <option name="source" value="ila_0_sim_netlist.v" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1000521" />
+                    <option name="source" value="dbg_hub_sim_netlist.v" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_0_sim_netlist.v" />
+                  <option value="dbg_hub_sim_netlist.v" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="IBA_GENERIC_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1215" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1214" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1214" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="IBA_OPB_ATC_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1355" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1354" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1354" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="IBA_OPB_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1250" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1249" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1249" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="IBA_PLB_ATC_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1390" />
+                    <option name="replacementList" value="8" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1389" />
+                    <option name="replacementList" value="8" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1389" />
+                    <option name="replacementList" value="8" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="IBA_PLB_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1285" />
+                    <option name="replacementList" value="5" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1284" />
+                    <option name="replacementList" value="5" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1284" />
+                    <option name="replacementList" value="5" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="IBERT_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1568" />
+                    <option name="replacementList" value="13" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1567" />
+                    <option name="replacementList" value="13" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1567" />
+                    <option name="replacementList" value="13" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="ICON_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1145" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1144" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1144" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="ICON_READ_STAT_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1417" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="ILA_ATC_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1320" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1319" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1319" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="ILA_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1180" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1179" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1179" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="ILA_PRO_DATA_DELAY">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="7021" />
+                    <option name="replacementList" value="9" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="MATCH_UNIT_TYPEA_ALLX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1797" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1796" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1796" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+              <option name="dependencies">
+                <set>
+                  <option value="ila_v6_2_15_ila_param.vh" />
+                </set>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_DATA_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2794" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_DATA_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4324" />
+                    <option name="replacementList" value="`READ_DATA_CMD            + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_DYNAMIC_STAT_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2756" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_DYNAMIC_STAT_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4236" />
+                    <option name="replacementList" value="`READ_DYNAMIC_STAT_CMD    + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_STATIC_STAT_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2718" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_STATIC_STAT_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4148" />
+                    <option name="replacementList" value="`READ_STATIC_STAT_CMD     + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_TSTAMP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2832" />
+                    <option name="replacementList" value="3" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="READ_TSTAMP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4412" />
+                    <option name="replacementList" value="`READ_TSTAMP_CMD          + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_0C_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3176" />
+                    <option name="replacementList" value="12" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_0C_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5204" />
+                    <option name="replacementList" value="`RESERVED_0C_CMD          + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_0D_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3215" />
+                    <option name="replacementList" value="13" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_0D_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5292" />
+                    <option name="replacementList" value="`RESERVED_0D_CMD          + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_0E_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3254" />
+                    <option name="replacementList" value="14" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_0E_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5380" />
+                    <option name="replacementList" value="`RESERVED_0E_CMD          + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1110" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1109" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1109" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="RESERVED_MFG_ID">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="888" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="887" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="887" />
+                    <option name="replacementList" value="0" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_COMMAND_GROUP_HIGH_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1069" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_COMMAND_GROUP_LOW_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1115" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_COMMAND_HIGH_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="976" />
+                    <option name="replacementList" value="11" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_COMMAND_LOW_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1023" />
+                    <option name="replacementList" value="8" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_COMMAND_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1312" />
+                    <option name="replacementList" value="`TARGET_COMMAND_HIGH_INDEX - `TARGET_COMMAND_LOW_INDEX + 1" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_CORE_ID_HIGH_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="882" />
+                    <option name="replacementList" value="15" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_CORE_ID_LOW_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="929" />
+                    <option name="replacementList" value="12" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_CORE_ID_WIDTH">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1209" />
+                    <option name="replacementList" value="`TARGET_CORE_ID_HIGH_INDEX - `TARGET_CORE_ID_LOW_INDEX + 1" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_HIGH_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="832" />
+                    <option name="replacementList" value="15" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="TARGET_LOW_INDEX">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1161" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="xsdbm_v3_0_2_icn.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="UNUSED_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4072" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="VIO_CORE_TYPE">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="1425" />
+                    <option name="replacementList" value="9" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1424" />
+                    <option name="replacementList" value="9" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="1424" />
+                    <option name="replacementList" value="9" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_ARM_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3022" />
+                    <option name="replacementList" value="8" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_ARM_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4852" />
+                    <option name="replacementList" value="`WRITE_ARM_CMD            + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_CAP_CTRL_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2908" />
+                    <option name="replacementList" value="5" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_CAP_CTRL_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4588" />
+                    <option name="replacementList" value="`WRITE_CAP_CTRL_SETUP_CMD + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_DISABLE_EXTCAP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2984" />
+                    <option name="replacementList" value="7" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_DISABLE_EXTCAP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4764" />
+                    <option name="replacementList" value="`WRITE_DISABLE_EXTCAP_CMD + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_ENABLE_EXTCAP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2946" />
+                    <option name="replacementList" value="6" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_ENABLE_EXTCAP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4676" />
+                    <option name="replacementList" value="`WRITE_ENABLE_EXTCAP_CMD  + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_HALT_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3060" />
+                    <option name="replacementList" value="9" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_HALT_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4940" />
+                    <option name="replacementList" value="`WRITE_HALT_CMD           + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M0_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3332" />
+                    <option name="replacementList" value="16" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M0_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5556" />
+                    <option name="replacementList" value="`WRITE_M0_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M10_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3722" />
+                    <option name="replacementList" value="26" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M10_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6436" />
+                    <option name="replacementList" value="`WRITE_M10_SETUP_CMD      + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M11_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3761" />
+                    <option name="replacementList" value="27" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M11_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6524" />
+                    <option name="replacementList" value="`WRITE_M11_SETUP_CMD      + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M12_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3800" />
+                    <option name="replacementList" value="28" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M12_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6612" />
+                    <option name="replacementList" value="`WRITE_M12_SETUP_CMD      + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M13_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3839" />
+                    <option name="replacementList" value="29" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M13_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6700" />
+                    <option name="replacementList" value="`WRITE_M13_SETUP_CMD      + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M14_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3878" />
+                    <option name="replacementList" value="30" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M14_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6788" />
+                    <option name="replacementList" value="`WRITE_M14_SETUP_CMD      + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M15_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3917" />
+                    <option name="replacementList" value="31" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M15_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6876" />
+                    <option name="replacementList" value="`WRITE_M15_SETUP_CMD      + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M1_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3371" />
+                    <option name="replacementList" value="17" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M1_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5644" />
+                    <option name="replacementList" value="`WRITE_M1_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M2_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3410" />
+                    <option name="replacementList" value="18" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M2_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5732" />
+                    <option name="replacementList" value="`WRITE_M2_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M3_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3449" />
+                    <option name="replacementList" value="19" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M3_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5820" />
+                    <option name="replacementList" value="`WRITE_M3_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M4_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3488" />
+                    <option name="replacementList" value="20" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M4_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5908" />
+                    <option name="replacementList" value="`WRITE_M4_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M5_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3527" />
+                    <option name="replacementList" value="21" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M5_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5996" />
+                    <option name="replacementList" value="`WRITE_M5_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M6_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3566" />
+                    <option name="replacementList" value="22" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M6_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6084" />
+                    <option name="replacementList" value="`WRITE_M6_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M7_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3605" />
+                    <option name="replacementList" value="23" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M7_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6172" />
+                    <option name="replacementList" value="`WRITE_M7_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M8_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3644" />
+                    <option name="replacementList" value="24" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M8_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6260" />
+                    <option name="replacementList" value="`WRITE_M8_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M9_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3683" />
+                    <option name="replacementList" value="25" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_M9_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="6348" />
+                    <option name="replacementList" value="`WRITE_M9_SETUP_CMD       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_RESET_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3098" />
+                    <option name="replacementList" value="10" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_RESET_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5028" />
+                    <option name="replacementList" value="`WRITE_RESET_CMD          + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_RESET_DCM_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3137" />
+                    <option name="replacementList" value="11" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_RESET_DCM_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5116" />
+                    <option name="replacementList" value="`WRITE_RESET_DCM_CMD      + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_TRIG_SETUP_CMD">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="2870" />
+                    <option name="replacementList" value="4" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_TRIG_SETUP_CMD_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="4500" />
+                    <option name="replacementList" value="`WRITE_TRIG_SETUP_CMD     + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_TSEQ_TRIGOUT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="3293" />
+                    <option name="replacementList" value="15" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="WRITE_TSEQ_TRIGOUT_BIT">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="5468" />
+                    <option name="replacementList" value="`WRITE_TSEQ_TRIGOUT       + `CONTROL_CMD_OFFSET" />
+                    <option name="source" value="ila_v6_2_15_ila_ver.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="XILINX_AND_AGILENT_MFG_ID">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="960" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="959" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="959" />
+                    <option name="replacementList" value="2" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="XILINX_MFG_ID">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="924" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="ltlib_v1_0_2_ver.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="923" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbm_v3_0_2_in.vh" />
+                  </Body>
+                  <Body>
+                    <option name="offset" value="923" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="xsdbs_v1_0_4_in.vh" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="_VERILATED_V_">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="621" />
+                    <option name="replacementList" value="1" />
+                    <option name="source" value="verilated.v" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="coverage_block_off">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="inclusionDependencies">
+                      <list>
+                        <InclusionDependency>
+                          <option name="name" value="VERILATOR" />
+                          <option name="rule" value="NOT_DEFINED" />
+                        </InclusionDependency>
+                      </list>
+                    </option>
+                    <option name="offset" value="716" />
+                    <option name="source" value="verilated.v" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+        <entry key="verilator_file_descriptor">
+          <value>
+            <Define>
+              <option name="definitions">
+                <list>
+                  <Body>
+                    <option name="offset" value="823" />
+                    <option name="replacementList" value="integer" />
+                    <option name="source" value="verilated.v" />
+                  </Body>
+                </list>
+              </option>
+            </Define>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="version" value="195" />
+  </component>
+</project>
